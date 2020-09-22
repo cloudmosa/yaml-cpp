@@ -48,6 +48,7 @@ component("yaml-cpp")  {
     "src/node.cpp",
     "src/nodebuilder.cpp",
     "src/nodebuilder.h",
+    "src/nodeevents.cpp",
     "src/nodeevents.h",
     "src/null.cpp",
     "src/ostream_wrapper.cpp",
